@@ -28,3 +28,19 @@ AmazonTextract ![image](https://github.com/user-attachments/assets/1de3e4ad-7be5
 
 AmazonTranscribe- like speaking yourself ![image](https://github.com/user-attachments/assets/6ba77b6f-ab29-4d2f-bb5c-53ebc9c145a6)
 AmazonTranslate - Whatever the text we have we caan convet that![image](https://github.com/user-attachments/assets/72b13e89-177a-4040-8748-c226cf5ecb36)
+
+Cloud Computing - 7 July
+Databases Topic SQL & NOSQL Databases
+IN
+![image](https://github.com/user-attachments/assets/e92b13f0-da1b-412e-961f-48e86dd87466)
+![image](https://github.com/user-attachments/assets/0acba91c-9263-4c6d-9fec-c52328ff9ef4)
+![image](https://github.com/user-attachments/assets/c6c81ccd-088c-46d7-93b0-673bd71375f3)
+
+![image](https://github.com/user-attachments/assets/b5a33421-a2c3-432c-8042-f9a41a646d46)
+![image](https://github.com/user-attachments/assets/d9bbca1a-ac03-480b-9c78-20ff0c25b5a6)
+
+![image](https://github.com/user-attachments/assets/810f229d-e31d-4b94-91e1-3739e2168a40)
+![image](https://github.com/user-attachments/assets/7f6205a1-4d28-4d9b-93c5-47eef63ca6ef)
+![image](https://github.com/user-attachments/assets/41a45262-8a0e-4170-b806-24883d3762e7)
+![image](https://github.com/user-attachments/assets/2500432c-0bdb-46e5-90f9-9bddc1b2b035)
+![image](https://github.com/user-attachments/assets/ecadb445-2807-48a2-8072-cbd86e85d4b0)
