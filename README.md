@@ -51,3 +51,33 @@ IN
 
 
 ![image](https://github.com/user-attachments/assets/8a04feb9-f8f9-4145-96ee-bdfe44f87276)
+
+Creating of mongoDB
+
+![image](https://github.com/user-attachments/assets/d509f46c-f7d3-4aa0-87b1-1e351ac9502c)
+
+In MondoDB what is the use of creating items
+
+![image](https://github.com/user-attachments/assets/cf42301d-f626-4da7-b98d-f1e128597320)
+in this we can run all or if we want to run specific we can mention that also for creating tables
+
+So if we want to create global tables ![image](https://github.com/user-attachments/assets/91748455-85ba-4cb4-8349-0a2e1971b4e3) go to replica so we can create different region also available ![image](https://github.com/user-attachments/assets/6dd36d56-411c-4b48-8f13-b2ad3baac944)
+
+Coming to backups so there are two kind of backup ![image](https://github.com/user-attachments/assets/1f07701c-6011-495b-9eda-8f0bf4e241ee)
+1.Create on-demand Backup 2. Schedule Backup  1. if we click 1st As of now at this moment the backup would be created.2. It is fixed time of amount we will have the particular so we can take backup specific amount of time only we can backup.
+
+Exports and Streams![image](https://github.com/user-attachments/assets/a2193d7f-1c21-42e0-8c3a-9d90c9e23786)
+Full Exports means As of now whatever the data is there we can able to create a particular table and we can export all the data at the same time.Incremeental data After full export whatever the data is there we willl be able to send only specific data .
+![image](https://github.com/user-attachments/assets/6faab5da-7c47-4371-97eb-cd43f2526503)
+
+To Create SQL Database we need to ![image](https://github.com/user-attachments/assets/baeaa0bc-9299-41c0-b65c-8ad81a5ea432)
+![image](https://github.com/user-attachments/assets/36c86962-a4b3-4976-ade1-6987ec4a1b89)
+![image](https://github.com/user-attachments/assets/0024f62b-c860-492d-9e89-6799d68276a7) go for free if u want to do\
+![image](https://github.com/user-attachments/assets/233394cd-dbee-48b4-8051-2ee4be2ca387)
+![image](https://github.com/user-attachments/assets/e025e205-9929-4a35-b902-cf1513cf8256)
+
+Done created sql ![image](https://github.com/user-attachments/assets/86b6b1ef-eb55-44c6-a530-4bc3e4b31b2b)
+copy the endpoint ![image](https://github.com/user-attachments/assets/000de181-fcb8-4ce5-822e-20be26f9d735)
+USing endpoint we can make a connection with sql![image](https://github.com/user-attachments/assets/cdc701ee-9d57-4f15-afd2-fe1114c55552)
+in hostname we need to give endpoint capy nd paste then admin name and password whatever we gave
+He told we will discuss vpc and lambda function tommorow
