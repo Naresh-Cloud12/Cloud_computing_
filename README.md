@@ -81,3 +81,4 @@ copy the endpoint ![image](https://github.com/user-attachments/assets/000de181-f
 USing endpoint we can make a connection with sql![image](https://github.com/user-attachments/assets/cdc701ee-9d57-4f15-afd2-fe1114c55552)
 in hostname we need to give endpoint capy nd paste then admin name and password whatever we gave
 He told we will discuss vpc and lambda function tommorow
+,
