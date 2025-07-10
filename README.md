@@ -118,8 +118,44 @@ If uou want to check go to the trigger ![image](https://github.com/user-attachme
 SO if you want to give message to subscriber ![image](https://github.com/user-attachments/assets/ed2564b0-5701-44d6-a96f-641712439b64) --> click snsdemo-->![image](https://github.com/user-attachments/assets/29738959-e1e0-47b5-882a-0d378bf88092) --> here u can mention ![image](https://github.com/user-attachments/assets/2ca313e7-b751-46d7-adb0-01b5e197ec31) Now to go to lambda function and refresh now we can sns functions![image](https://github.com/user-attachments/assets/7c5998bf-9816-4081-90af-66b2e768634b) This is how u mangae subsiber function
 
 
+9/07/2025
 
+Lex- it is basically chatbot where we can able to communicate.![image](https://github.com/user-attachments/assets/44307321-0c74-4e83-8658-f2f962b1327a)
+Omnichannel - where we can able to deploy ou app chatbox in multiple places
+![image](https://github.com/user-attachments/assets/134870dd-0339-4f97-ac2f-82235bc52bbb)
 
+![image](https://github.com/user-attachments/assets/4deb3c8a-ea8d-4fcd-baf1-290f1b0a935c)
 
+Intent - It means what goal we have aswell how do you interact aswell.
+Utterance - Inititally Whatever the statement we give in chatbox(for eg- i would like to book a hotel)
 
+Let do how to create a chatbot-->
+
+![image](https://github.com/user-attachments/assets/f3d7c396-2124-40ce-a1d8-dbd1211c9c41)
+![image](https://github.com/user-attachments/assets/88b46108-32fb-4ac5-b5a4-ea72fa16aa96)
+![image](https://github.com/user-attachments/assets/d8e96a9d-a4da-47ab-8d34-81e47985b06c)
+![image](https://github.com/user-attachments/assets/48cff278-98b1-47b7-b768-646f7888970c) order flower save it
+we need to give sample utterences ![image](https://github.com/user-attachments/assets/887837f9-0fb6-467b-9be4-433d8cc775db)
+![image](https://github.com/user-attachments/assets/1b72ad9b-d212-4702-8f9c-a2dbdccdfd59)
+![image](https://github.com/user-attachments/assets/74e114c9-f696-4e7b-80ec-d43f03687ef3)
+
+So we have to gather customer information for that we have slot--![image](https://github.com/user-attachments/assets/fdf82191-7f06-4c61-8d5f-9245df61bfdf)
+![image](https://github.com/user-attachments/assets/314bf24a-e3ec-4413-9c87-237000655281) like this we can add phone number aswell whatever we can add. after adding these we have to mention street and city name.![image](https://github.com/user-attachments/assets/d268cf4f-62f4-48c5-b550-1ad134dda73d)
+This all inbuild slot types.
+
+now we do manual slot -->![image](https://github.com/user-attachments/assets/a66a65a3-d53f-4537-9381-335a5928c281)
+![image](https://github.com/user-attachments/assets/270aead3-3f5c-469e-89b8-a37365ff77a5)
+![image](https://github.com/user-attachments/assets/530dcda9-9692-4ac4-8f2f-ef6ae6554902)
+so after that we can add flower colour,quantity,payment method we can add so simply we can add that using slots .whatever the slot we created we need to mention in flow
+![image](https://github.com/user-attachments/assets/a05be8c9-7cb2-4603-914e-277649de61d9)
+![image](https://github.com/user-attachments/assets/c0ce9a29-45de-462c-af25-3a9534ddc9c2)
+![image](https://github.com/user-attachments/assets/2665f712-0dc5-43e5-b687-162a508eba42)
+After this we need to go for confirmation![image](https://github.com/user-attachments/assets/d435979a-c2ea-49bd-9b84-0bc04379296c)
+If your user say yes it will process or no it will show the like decline we can mention that.
+![image](https://github.com/user-attachments/assets/44f2ce17-8650-4fc0-ac26-ebad85c12753)
+After that save the Intent.
+In that test we can test![image](https://github.com/user-attachments/assets/5cbea4ee-9bd9-420a-9250-dd913507c1ab)
+mention hi,stree,adress,flower,what catergory ,what flower lotus-![image](https://github.com/user-attachments/assets/f028c784-98f6-4cf5-a91b-c38d65761ef9)
+
+So if you want to delete the bot ![image](https://github.com/user-attachments/assets/11112c0f-a0b9-4580-a851-08849b35f869)
 
